@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428474538029",
+    "project_id": "trekverse-2",
+    "storage_bucket": "trekverse-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428474538029:android:259f0adf6096afd40ac0a4",
+        "android_client_info": {
+          "package_name": "com.trekverse.trekverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3qnCu_J-eBvAVCFFlir_GGh9WPFc9Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
